@@ -1,4 +1,5 @@
 # Logs
+src/watchdog_file_systems.py
 logs
 *.log
 npm-debug.log*
