@@ -1,4 +1,3 @@
-
 const Root = () => {
     return (
         <div>
@@ -7,4 +6,4 @@ const Root = () => {
     );
 };
 
-exp‌‌ort default Root;
+export default Root;
