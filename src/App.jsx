@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-    <h2>I am d App</h2>
+    <h2>I am super powered App</h2>
     </>
   )
 }
