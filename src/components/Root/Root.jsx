@@ -1,7 +1,7 @@
 const Root = () => {
     return (
         <div className="text-red-500">
-            I am rootd
+            I am legend
         </div>
     );
 };
