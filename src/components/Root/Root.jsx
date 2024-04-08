@@ -1,7 +1,7 @@
 const Root = () => {
     return (
-        <div>
-            I am root
+        <div className="text-red-500">
+            I am rootd
         </div>
     );
 };
