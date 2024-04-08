@@ -1,7 +1,10 @@
+import { Outlet } from "react-router-dom";
+
 const Root = () => {
     return (
         <div className="text-red-500">
-            I am legend Totan Sarker
+            <Outlet></Outlet>
+            
         </div>
     );
 };
