@@ -2,7 +2,7 @@ const Header = () => {
   const links = (
     <>
       <li>
-        <a>Item 1</a>
+        <a>Home</a>
       </li>
       <li>
         <a>Parent</a>
