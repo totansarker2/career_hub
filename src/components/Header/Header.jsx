@@ -3,7 +3,8 @@ import React from "react";
 const Header = () => {
     const links =
     <>
-    <li></li>
+    <li><a></a></li>
+    <li><a></a></li>
     </>
   return (
     <div className="navbar bg-base-100">
