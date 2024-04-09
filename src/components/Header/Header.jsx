@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
     const links =
     <>
-    <li><a></a></li>
+    <li><a>Item 1</a></li>
     <li><a></a></li>
     </>
   return (
