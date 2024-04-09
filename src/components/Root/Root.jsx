@@ -4,7 +4,7 @@ import Footer from "../Footer/Footer";
 const Root = () => {
     return (
         <div className="text-red-500">
-            <header></header>
+            <Header></Header>
             <Outlet></Outlet>
             <Footer></Footer>
         </div>
