@@ -20,7 +20,7 @@ const router = createBrowserRouter([
       },
       {
         path:'/applied',
-        element: <
+        element: <Jobs></Jobs>
       }
     ],
   },
