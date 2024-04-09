@@ -2,6 +2,8 @@ import React from "react";
 
 const Header = () => {
     const links =
+    <>
+    </>
   return (
     <div className="navbar bg-base-100">
       <div className="navbar-start">
