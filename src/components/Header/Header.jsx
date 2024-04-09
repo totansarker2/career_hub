@@ -7,7 +7,7 @@ const Header = () => {
         <NavLink to="/">Home</NavLink>
       </li>
       <li>
-        <a>Jobs</a>
+        <a>Applied jobs</a>
         <ul className="p-2">
           <li>
             <a>Submenu 1</a>
