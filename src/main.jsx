@@ -6,6 +6,7 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./components/Home/Home";
 import Root from "./components/Root/Root";
+import Jobs from "./components/Jobs/Jobs";
 import ErrorPage from "./error-page";
 
 const router = createBrowserRouter([
