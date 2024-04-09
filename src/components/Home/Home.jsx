@@ -1,7 +1,11 @@
+import Banner from "../Banner/Banner";
+import CatagoryList from "../CatagoryList/CatagoryList";
+
 const Home = () => {
     return (
         <div>
-            <h2>This is Home, hi iam totan sarker</h2>
+            <Banner></Banner>
+            <CatagoryList></CatagoryList>
         </div>
     );
 };
